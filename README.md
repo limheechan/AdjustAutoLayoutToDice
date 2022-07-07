@@ -9,3 +9,6 @@
 버튼에 w = 100 h = 50 이라는 제약 조건을 걸자 텍스가 범위를 넘었을 시에 대한 경고를 띄어 
 width >= 100 이라는 조건을 걸어주어 항상 100 을 띄며 텍스트가 100을 넘으면 그 크기도 증가 하겠끔 만들었습니다. 
  
+
+
+![Simulator Screen Recording - iPod touch (7th generation) - 2022-07-07 at 18 42 57](https://user-images.githubusercontent.com/101173361/177745069-8f6c764c-9f8b-461c-bc66-4c493cb9d6f4.gif)
