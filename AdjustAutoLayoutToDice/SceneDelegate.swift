@@ -1,8 +1,9 @@
 //
 //  SceneDelegate.swift
-//  AdjustAutoLayoutToDice
+//  AutoLayout-iOS13
 //
-//  Created by 임희찬 on 2022/07/07.
+//  Created by Angela Yu on 28/06/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
@@ -23,7 +24,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Called as the scene is being released by the system.
         // This occurs shortly after the scene enters the background, or when its session is discarded.
         // Release any resources associated with this scene that can be re-created the next time the scene connects.
-        // The scene may re-connect later, as its session was not necessarily discarded (see `application:didDiscardSceneSessions` instead).
+        // The scene may re-connect later, as its session was not neccessarily discarded (see `application:didDiscardSceneSessions` instead).
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {
